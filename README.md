@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently undertraining for Java Full Stack Developer.<br>I am a fun guy who likes problem solving and learning new things<br>I like to watch anime and read manga
+I am currently working as Java Full Stack Developer.<br>I am a fun guy who likes problem solving and learning new things<br>I like to watch anime and read manga
 
 
 ## 🌐 Socials:
