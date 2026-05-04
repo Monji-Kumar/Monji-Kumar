@@ -16,7 +16,7 @@ I am currently working as Java Full Stack Developer.<br>I am a fun guy who likes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+<img src="https://memer-new.vercel.app/?t=${Date.now()}" style="height: 400px;" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Monji-kumar&icon=0&color=0)](https://visitcount.itsvg.in)
